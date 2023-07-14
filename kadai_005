@@ -1,1 +1,6 @@
+a = 10 
+b = 20
+h = 5
 
+area = (a + b) * h / 2
+print(area, "cm**2")
